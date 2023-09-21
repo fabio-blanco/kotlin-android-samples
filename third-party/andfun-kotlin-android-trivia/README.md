@@ -2,7 +2,8 @@
 
 This is the toy app for lesson 3 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
-Original code obtained from [the original github course repository](https://github.com/udacity/andfun-kotlin-android-trivia/tree/starter-code) and adapted as an exercise. The [original license](/LICENSE.txt) was maintained for this project.
+Original code obtained from [the original github course repository](https://github.com/udacity/andfun-kotlin-android-trivia/tree/starter-code) and adapted as an exercise. 
+The [original license](/third-party/andfun-kotlin-android-trivia/LICENSE.txt) was maintained for this project.
 
 ## Android Trivia 
 
@@ -108,5 +109,5 @@ Notice any issues with a repository? Please file a github issue in the repositor
 
 ## License
 
-[Original license for image and audio is CC BY 4.0 license and for code is Apache v2](/LICENSE.txt).
+[Original license for image and audio is CC BY 4.0 license and for code is Apache v2](/third-party/andfun-kotlin-android-trivia/LICENSE.txt).
 
