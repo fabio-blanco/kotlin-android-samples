@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Fabio Blanco</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">
+        Hi, my name is Fabio
+        \n\n I like to play the guitar.
+        \n\n I\'m also a woodworker and I like to design furniture.
+        \n\n But my profession is software engineer and my role is as staff engineer.
+        \n\n At the present time, I\'m working on some personal projects before trying to get hired again.
+        \n\n I\'m also studying Kotlin Android development in order to complete my personal projects.
+        \n\n I\'m actually reading Staff Engineer from Will Larson.
+        \n\n And I have a list of books to read to help me with my growth in my career.
+        \n\n Among those are books about coding, refactoring, design to help me improve my technical skills
+        \n\n And also books about leadership and management to help me improve in those more specific skills too.
+        \n\n I also intend to learn Rust and to improve my Python knowledge.
+        \n\n I\'m also experimenting with Clean Architecture and studying Hexagonal Architecture.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
