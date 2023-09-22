@@ -16,6 +16,8 @@ Projects developed by following the [Udacity course](https://www.udacity.com/cou
   - [Color My Views](/ColorMyViews/)
 - **Module 3 - App Navigation**
   - [Android Trivia](/third-party/andfun-kotlin-android-trivia/)
+- **Module 4 - Activity & Fragment Lifecycle**
+  - [Dessert Pusher](/third-party/andfun-kotlin-dessert-pusher/)
 
 ## License
 

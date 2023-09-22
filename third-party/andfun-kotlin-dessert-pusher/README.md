@@ -2,7 +2,7 @@
 
 This is the toy app for lesson 4 of the [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/6a155d63-8153-4a56-95cb-1dfdf06aa173).
 
-Original code obtained from the [original github course repository](https://github.com/udacity/andfun-kotlin-dessert-pusher/) and adapted as an exercise. The original license was maintained for this project.
+Original code obtained from the [original github course repository](https://github.com/udacity/andfun-kotlin-dessert-pusher/) and adapted as an exercise. The [original license](/third-party/andfun-kotlin-dessert-pusher/LICENSE.txt) was maintained for this project.
 
 ## DessertPusher
 
@@ -126,3 +126,7 @@ and [Part 3: Fragments](https://medium.com/androiddevelopers/the-android-lifecyc
   - In this case, by running `adb shell am kill com.example.android.dessertpusher` in the terminal
 - How to save app state data using `onSaveInstanceState`
 - How to recover app state data using `onRestoreInstanceState`
+
+## License
+
+[Original license for image and audio is CC BY 4.0 license and for code is Apache v2](/third-party/andfun-kotlin-dessert-pusher/LICENSE.txt)
