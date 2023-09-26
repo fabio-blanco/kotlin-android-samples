@@ -20,6 +20,8 @@ Projects developed by following the [Udacity course](https://www.udacity.com/cou
   - [Dessert Pusher](/third-party/andfun-kotlin-dessert-pusher/)
 - **Module 5 - App Architecture (UI Layer)**
   - [Guess it](/third-party/andfun-kotlin-guess-it/)
+- **Module 6 - App Architecture (Persistence)**
+  - [Sleep Tracker](/third-party/andfun-kotlin-sleep-tracker/)
 
 ## License
 
