@@ -116,6 +116,8 @@ Notice any issues with a repository? Please file a github issue in the repositor
   - [Create dynamic lists with RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
   - [RecyclerView.ViewHolder](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.ViewHolder)
   - [DiffUtil](https://developer.android.com/reference/androidx/recyclerview/widget/DiffUtil)
+  - [Customize Your RecyclerView](https://developer.android.com/develop/ui/views/layout/recyclerview-custom)
+  - [GridLayoutManager](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/GridLayoutManager)
 - [Binding Adapters](https://developer.android.com/topic/libraries/data-binding)
 
 ## License
