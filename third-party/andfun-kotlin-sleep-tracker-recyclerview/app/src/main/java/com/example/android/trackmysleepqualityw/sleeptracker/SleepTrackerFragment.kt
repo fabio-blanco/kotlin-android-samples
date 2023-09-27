@@ -66,8 +66,21 @@ class SleepTrackerFragment : Fragment() {
         val manager = GridLayoutManager(activity, 3)
         binding.sleepList.layoutManager = manager
 
-        val adapter = SleepNightAdapter()
+        val adapter = SleepNightAdapter(
+            SleepNightListener { nightId ->
+                sleepTrackerViewModel.onSleepNightClicked(nightId)
+            }
+        )
         binding.sleepList.adapter = adapter
+
+        sleepTrackerViewModel.navigateToSleepDataQuality.observe(viewLifecycleOwner) { nightId ->
+            nightId?.let {
+                this.findNavController().navigate(
+                    SleepTrackerFragmentDirections.actionSleepTrackerFragmentToSleepDetailFragment(nightId)
+                )
+                sleepTrackerViewModel.onSleepDataQualityNavigated()
+            }
+        }
 
         sleepTrackerViewModel.nights.observe(viewLifecycleOwner) {
             it?.let {

@@ -22,6 +22,8 @@ Projects developed by following the [Udacity course](https://www.udacity.com/cou
   - [Guess it](/third-party/andfun-kotlin-guess-it/)
 - **Module 6 - App Architecture (Persistence)**
   - [Sleep Tracker](/third-party/andfun-kotlin-sleep-tracker/)
+- **Module 7 - RecyclerView**
+  - [Sleep Tracker W](/third-party/andfun-kotlin-sleep-tracker-recyclerview)
 
 ## License
 
