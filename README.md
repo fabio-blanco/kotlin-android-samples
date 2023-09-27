@@ -22,6 +22,15 @@ Projects developed by following the [Udacity course](https://www.udacity.com/cou
   - [Guess it](/third-party/andfun-kotlin-guess-it/)
 - **Module 6 - App Architecture (Persistence)**
   - [Sleep Tracker](/third-party/andfun-kotlin-sleep-tracker/)
+- **Module 7 - RecyclerView**
+  - [Sleep Tracker W](/third-party/andfun-kotlin-sleep-tracker-recyclerview)
+  - Branches of the exercises evolution:
+    - Step 1 - [An Introductory simple RecyclerView implementation](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-simple)
+    - Step 2 - [Changed the RecyclerView to use a ListAdapter](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-listadapter)
+    - Step 3 - [Implemented databinding in the RecyclerView](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-databinding)
+    - Step 4 - [Changed the RecyclerView to a GridLayout](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-gridlayout)
+    - Step 5 - [Implemented item navigation on the RecyclerView](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-item-navigation)
+    - Step 6 - [Added a header to the RecyclerView](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-header)
 
 ## License
 
