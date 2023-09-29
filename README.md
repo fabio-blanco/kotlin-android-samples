@@ -31,6 +31,8 @@ Projects developed by following the [Udacity course](https://www.udacity.com/cou
     - Step 4 - [Changed the RecyclerView to a GridLayout](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-gridlayout)
     - Step 5 - [Implemented item navigation on the RecyclerView](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-item-navigation)
     - Step 6 - [Added a header to the RecyclerView](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-header)
+- **Module 8 - Connect to the Internet**
+  - [Mars Real Estate](/third-party/andfun-kotlin-mars-real-estate/)
 
 ## License
 
