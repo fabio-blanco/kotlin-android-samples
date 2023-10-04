@@ -33,6 +33,8 @@ Projects developed by following the [Udacity course](https://www.udacity.com/cou
     - Step 6 - [Added a header to the RecyclerView](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-header)
 - **Module 8 - Connect to the Internet**
   - [Mars Real Estate](/third-party/andfun-kotlin-mars-real-estate/)
+- **Module 9 - Behind the Scenes** - How to implement an offline cache and how to implement background tasks with WorManager
+  - [DevByte Viewer](/third-party/andfun-kotlin-dev-bytes/)
 
 ## License
 
