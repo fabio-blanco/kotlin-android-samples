@@ -16,11 +16,11 @@ Projects developed by following the [Udacity course](https://www.udacity.com/cou
   - [Color My Views](/ColorMyViews/)
 - **Module 3 - App Navigation**
   - [Android Trivia](/third-party/andfun-kotlin-android-trivia/)
-- **Module 4 - Activity & Fragment Lifecycle**
+- **Module 4 - Activity & Fragment Lifecycle** - Activities and Fragment Lifecycle, Log and Timber, Using adb, basic on saving and recovering app state
   - [Dessert Pusher](/third-party/andfun-kotlin-dessert-pusher/)
-- **Module 5 - App Architecture (UI Layer)**
+- **Module 5 - App Architecture (UI Layer)** - MVVM, ViewModel, Ways to save app state, LiveData, Data binding, Formatting Strings, Transformations, Vibration on Android, Android Permissions, Android Apps Architecture
   - [Guess it](/third-party/andfun-kotlin-guess-it/)
-- **Module 6 - App Architecture (Persistence)**
+- **Module 6 - App Architecture (Persistence)** - Room, Companion Objects, Testing Apps on Android, Reusing Layouts (Tags Merge and Include), Coroutines, Back and up navigation, Bind layout views to Architecture Components
   - [Sleep Tracker](/third-party/andfun-kotlin-sleep-tracker/)
 - **Module 7 - RecyclerView**
   - [Sleep Tracker W](/third-party/andfun-kotlin-sleep-tracker-recyclerview)
@@ -31,10 +31,12 @@ Projects developed by following the [Udacity course](https://www.udacity.com/cou
     - Step 4 - [Changed the RecyclerView to a GridLayout](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-gridlayout)
     - Step 5 - [Implemented item navigation on the RecyclerView](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-item-navigation)
     - Step 6 - [Added a header to the RecyclerView](https://github.com/fabio-blanco/kotlin-android-samples/tree/feat/sleep-tracker-recyclerview-header)
-- **Module 8 - Connect to the Internet**
+- **Module 8 - Connect to the Internet** - Retrofit library (http client), Glide library (Image loading), Connect to the Network, Android Permissions, Parcelable objects in bundles
   - [Mars Real Estate](/third-party/andfun-kotlin-mars-real-estate/)
 - **Module 9 - Behind the Scenes** - How to implement an offline cache and how to implement background tasks with WorManager
   - [DevByte Viewer](/third-party/andfun-kotlin-dev-bytes/)
+- **Module 10 - Designing for Everyone** - Themes, Styles, View Attributes, Design, Supporting different languages and cultures, RTL Support, Accessibility, Drawables, Dark Mode Support
+  - [GDG Finder App](/third-party/andfun-kotlin-gdg-finder/)
 
 ## License
 
