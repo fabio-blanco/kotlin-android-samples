@@ -5,6 +5,10 @@ This is a collection of Android projects that I maintain mainly for personal use
 Some of the sample projects in this repository were obtained from third parties and
 adjusted to my needs. For those projects the original license was maintained and mentioned in the proper project README.
 
+## Jetpack Compose
+
+- [Compose Tutorial App](/ComposeTutorial/)
+
 ## Udacity Course - Developing Android Apps With Kotlin
 
 Projects developed by following the [Udacity course](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
