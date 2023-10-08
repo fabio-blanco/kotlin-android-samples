@@ -9,6 +9,12 @@ adjusted to my needs. For those projects the original license was maintained and
 
 - [Compose Tutorial App](/ComposeTutorial/)
 
+### Jetpack Compose Pathways study
+
+Projects developed by following the [Jetpack Compose Pathways Course](https://developer.android.com/courses/pathways/compose) and its Codelabs
+
+- [Basics Codelab](/jetpack-compose-pathways/BasicsCodelab/)
+
 ## Udacity Course - Developing Android Apps With Kotlin
 
 Projects developed by following the [Udacity course](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
