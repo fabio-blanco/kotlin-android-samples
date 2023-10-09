@@ -14,6 +14,7 @@ adjusted to my needs. For those projects the original license was maintained and
 Projects developed by following the [Jetpack Compose Pathways Course](https://developer.android.com/courses/pathways/compose) and its Codelabs
 
 - [Basics Codelab](/jetpack-compose-pathways/BasicsCodelab/)
+- [Migration Codelab](/third-party/codelab-android-compose/MigrationCodelab/)
 
 ## Udacity Course - Developing Android Apps With Kotlin
 
