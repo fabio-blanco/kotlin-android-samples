@@ -16,6 +16,7 @@ Projects developed by following the [Jetpack Compose Pathways Course](https://de
 - [Basics Codelab](/jetpack-compose-pathways/BasicsCodelab/)
 - [Migration Codelab](/third-party/codelab-android-compose/MigrationCodelab/)
 - [Basic Layouts on Compose - MySoothe App](/third-party/codelab-android-compose/BasicLayoutsCodelab/)
+- [Theming in Compose with Material 3 - Reply](/third-party/codelab-android-compose/ThemingCodelab/)
 
 ## Udacity Course - Developing Android Apps With Kotlin
 
