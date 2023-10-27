@@ -19,7 +19,8 @@ Projects developed by following the [Jetpack Compose Pathways Course](https://de
 - [Theming in Compose with Material 3 Codelab - Reply](/third-party/codelab-android-compose/ThemingCodelab/)
 - [Jetpack Compose Animations Codelab](/third-party/codelab-android-compose/AnimationCodelab/)
 - [State on Jetpack Compose Codelab](/jetpack-compose-pathways/ComposeBasicStateCodelab/)
-- [Advanced State and Collateral Effects on Jetpack Compose Codelab - Crane Material Study app](/third-party/codelab-android-compose/AdvancedStateAndSideEffectsCodelab/)
+- [Advanced State and Collateral Effects on Jetpack Compose Codelab - Crane Material Study App](/third-party/codelab-android-compose/AdvancedStateAndSideEffectsCodelab/)
+- [Jetpack Compose Navigation Codelab - Rally App](/third-party/codelab-android-compose/NavigationCodelab/)
 
 ## Udacity Course - Developing Android Apps With Kotlin
 
