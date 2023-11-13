@@ -5,6 +5,13 @@ This is a collection of Android projects that I maintain mainly for personal use
 Some of the sample projects in this repository were obtained from third parties and
 adjusted to my needs. For those projects the original license was maintained and mentioned in the proper project README.
 
+## Build variants - Flavors
+
+Flavors are used to provide different "flavors" of the same app. A good example is a "free" and a "pro" version of the same app.
+
+- [Buy Me a Drink App](/BuyMeADrink/) - A Sample on how to create an App with "free" and "pro" versions by using the flavors configurations.
+The free versions has adds banners while the pro version is adds free and also has a premium functionality that is not available on the free version.
+
 ## Jetpack Compose
 
 - [Compose Tutorial App](/ComposeTutorial/)
