@@ -12,6 +12,12 @@ Flavors are used to provide different "flavors" of the same app. A good example 
 - [Buy Me a Drink App](/BuyMeADrink/) - A Sample on how to create an App with "free" and "pro" versions by using the flavors configurations.
 The free versions has adds banners while the pro version is adds free and also has a premium functionality that is not available on the free version.
 
+## Dependency Injection
+
+- [Using Hilt in your Android app Codelab - LoggingApp](/third-party/codelab-android-hilt/) - [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) is 
+a dependency injection library for Android that reduces the boilerplate of doing manual dependency injection on an Android project. It is built on top of the popular DI 
+library [Dagger](https://developer.android.com/training/dependency-injection/dagger-basics). This app is the result of my implementation of this Codelab.
+
 ## Jetpack Compose
 
 - [Compose Tutorial App](/ComposeTutorial/)
