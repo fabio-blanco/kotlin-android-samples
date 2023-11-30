@@ -5,6 +5,11 @@ This is a collection of Android projects that I maintain mainly for personal use
 Some of the sample projects in this repository were obtained from third parties and
 adjusted to my needs. For those projects the original license was maintained and mentioned in the proper project README.
 
+## Multiple Floating Action Button
+
+- [MultipleFab App](/MultipleFab/) - a Sample on how to create a Multiple Floating Action Button, a Fab that cam be expanded to display multiple inner Fabs. Each one with its
+own Action.
+
 ## Build variants - Flavors
 
 Flavors are used to provide different "flavors" of the same app. A good example is a "free" and a "pro" version of the same app.
