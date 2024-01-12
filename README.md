@@ -5,10 +5,13 @@ This is a collection of Android projects that I maintain mainly for personal use
 Some of the sample projects in this repository were obtained from third parties and
 adjusted to my needs. For those projects the original license was maintained and mentioned in the proper project README.
 
-## Multiple Floating Action Button
+## Android app Modularization
 
-- [MultipleFab App](/MultipleFab/) - a Sample on how to create a Multiple Floating Action Button, a Fab that cam be expanded to display multiple inner Fabs. Each one with its
-own Action.
+Modularization is an architectural strategy utilized to improve the maintainability of a software project, specially when a project starts to grow larger or if there are
+more than one team involved in parts of its development.
+
+- [Modularized Sample App](/ModularizedSample/) - A sample on how to create a modularized project for an Android app using the Version Catalog and Convention Plugins features
+of the Gradle build automation tool
 
 ## Build variants - Flavors
 
@@ -41,6 +44,11 @@ Projects developed by following the [Jetpack Compose Pathways Course](https://de
 - [Jetpack Compose Navigation Codelab - Rally App](/third-party/codelab-android-compose/NavigationCodelab/)
 - [Testing in Jetpack Compose Codelab - Rally App](/third-party/codelab-android-compose/TestingCodelab/)
 - [Accessibility in Jetpack Compose Codelab - JetNews App](/third-party/codelab-android-compose/AccessibilityCodelab/)
+
+### Multiple Floating Action Button
+
+- [MultipleFab App](/MultipleFab/) - a Sample on how to create a Multiple Floating Action Button, a Fab that cam be expanded to display multiple inner Fabs. Each one with its
+own Action.
 
 ## Udacity Course - Developing Android Apps With Kotlin
 
